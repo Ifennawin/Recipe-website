@@ -1,0 +1,33 @@
+* {
+	font-family: 'Times New Roman' , Helvetica, serif;
+	line-height: 1.5;
+}
+
+ul a{
+	color: white;
+	font-size: 120%;
+	background-color: rgb(57, 86, 99);
+	text-align: center;
+}
+
+.no-bullet{
+	list-style: none;
+}
+
+li{
+	list-style: circle;
+}
+
+h1{
+	color: rgb(57, 86, 99);
+}
+
+h2{
+	font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
+img{
+	border: 3px solid rgb(76, 154, 173);
+	height: auto;
+	width: 60%;
+}
