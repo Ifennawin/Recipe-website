@@ -6,4 +6,4 @@ This project demonstrates my knowledge of the following skills:
 1. HTML
 2. Git and basic Github
 
-Live preview: https://Ifennawin.github.io/Recipe-Website/index.html
+Live preview: https://Ifennawin.github.io/Recipe-website/index.html
